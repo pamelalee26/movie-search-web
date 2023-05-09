@@ -1,0 +1,25 @@
+.ag-header-row {
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+}
+  
+.table-container {
+    position: relative; /* make it the positioned ancestor element for the table */
+}
+
+.ag-theme-balham {
+    margin: auto; /* add this line */
+    height: "360px";
+    width: "600px";
+}
+
+.ag-cell {
+    border-color: black; /* set cell border color */
+    border-width: 1;
+}
+
+
+.ag-row-even {
+    background-color: lightgrey;
+  }
